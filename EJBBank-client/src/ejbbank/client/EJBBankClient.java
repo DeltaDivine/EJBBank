@@ -3,7 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejbbanklocal;
+package ejbbank.client;
+
+/**
+ *
+ * @author DeltaDivine
+ */
 
 import demo.NewWebService_Service;
 import demo.NewWebService;
@@ -11,7 +16,7 @@ import demo.NewWebService;
  *
  * @author DeltaDivine
  */
-public class EJBBankLocal {
+public class EJBBankClient {
 
     /**
      * @param args the command line arguments
